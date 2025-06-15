@@ -16,5 +16,5 @@ lidartest.cpp<br>
 
 measured data packet is 2ms long with 0.6ms gap at 230400 baud
 
-baudrate 230400, 47 byes per packet, 1 start 8 data and 1 stop bit
+baudrate 230400, 47 byes per packet, 1 start 8 data and 1 stop bit<br>
 1/2030400 x 47 x 10 = 2.04ms
