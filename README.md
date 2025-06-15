@@ -1,4 +1,4 @@
-# LD06Kit
+# lidar
 The source code checks for serial performance reading an LD06 serial stream.
 
 It has been tested on linux<br>
