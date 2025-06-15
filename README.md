@@ -12,3 +12,6 @@ return os ;//<< std::fixed << std::setprecision(3) << R"({"angle": )" << p.angle
 
 lidartest.cpp<br>
 //for (auto& p : v) cout << p << endl;
+
+
+data packet is 2ms with 0.6ms gap at 230400 baud
