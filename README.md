@@ -1,5 +1,5 @@
 # LD06Kit
-The code code checks for serial performance reading an LD06 serial stream.
+The source code checks for serial performance reading an LD06 serial stream.
 
 It has been tested on linux<br>
 type make clean all to build
